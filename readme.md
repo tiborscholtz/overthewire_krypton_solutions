@@ -6,7 +6,7 @@ After decoding...
 The password for level 1 is:  
 KRYPTONISGREAT  
 
-**Krypton Level 1:**
+**Krypton Level 1:**  
 `ssh krypton1@krypton.labs.overthewire.org -p 2231`  
 The password for this level:  
 `KRYPTONISGREAT`  
